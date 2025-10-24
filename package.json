@@ -14,5 +14,10 @@
     "@biomejs/biome": "^2.2.7",
     "typescript": "^5.9.3",
     "vitest": "^4.0.2"
+  },
+  "pnpm": {
+    "executionEnv": {
+      "nodeVersion": "25.0.0"
+    }
   }
 }
